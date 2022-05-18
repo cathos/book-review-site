@@ -1,0 +1,39 @@
+body {
+    font-family: serif;
+    color: antiquewhite;
+    border-color: burlywood;
+    scrollbar-highlight-color: maroon;
+    color-scheme: dark;
+    background-color: black;
+    border-width: 1rem,1rem;
+    padding: 1rem;
+    max-width: 75%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+nav,
+.fancy-text {
+    font-family: 'Eczar',italic, serif;
+    line-height: 50%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+p {
+    font-family: serif;
+}
+
+a:link {
+    color: burlywood;
+}
+
+a:visited {
+    color: maroon;
+}
